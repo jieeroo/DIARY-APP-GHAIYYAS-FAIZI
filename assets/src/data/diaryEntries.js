@@ -1,0 +1,42 @@
+export const diaryEntries = [
+  {
+    id: 1,
+    title: 'Pagi Yang Tenang',
+    date: '2025-10-06',
+    preview: 'Aku bangun lebih pagi dan berjalan santai sambil menikmati udara sejuk. Hari ini terasa lebih tenang dan membuatku fokus.',
+    mood: 'happy',
+    moodUri: 'https://i.pinimg.com/1200x/06/7f/17/067f17ada7740ae1d93f4c95a404431e.jpg?auto=format&fit=crop&w=300&q=80',
+  },
+  {
+    id: 2,
+    title: 'Produktif di Kampus',
+    date: '2025-10-05',
+    preview: 'Menyelesaikan modul praktikum dengan tim dan berdiskusi sampai materi terasa lebih jelas dan menyenangkan.',
+    mood: 'focus',
+    moodUri: 'https://i.pinimg.com/736x/94/74/cb/9474cb539de796c76c15328f9225bd53.jpg?auto=format&fit=crop&w=300&q=80',
+  },
+  {
+    id: 3,
+    title: 'Senja di Taman',
+    date: '2025-10-04',
+    preview: 'Aku duduk di taman sambil membaca buku favorit. Warna langit sore membuat hari ini terasa damai dan bahagia.',
+    mood: 'calm',
+    moodUri: 'https://i.pinimg.com/736x/8a/0c/03/8a0c036d14ad3ed5f20b457281fa6761.jpg?auto=format&fit=crop&w=300&q=80',
+  },
+  {
+    id: 4,
+    title: 'Semangat Baru',
+    date: '2025-10-03',
+    preview: 'Hari ini aku berani memulai hal baru dan merasa lebih berani untuk mencoba sesuatu yang belum pernah ku lakukan.',
+    mood: 'excited',
+    moodUri: 'https://i.pinimg.com/1200x/a9/9b/97/a99b97600691f0efe4a19178259ddddf.jpg?auto=format&fit=crop&w=300&q=80',
+  },
+  {
+    id: 5,
+    title: 'Hari yang Lelah',
+    date: '2025-10-02',
+    preview: 'Tadi aku merasa capek dan butuh waktu sendiri. Setelah istirahat sebentar, aku merasa lebih baik dan siap melanjutkan.',
+    mood: 'sad',
+    moodUri: 'https://i.pinimg.com/1200x/de/3c/8e/de3c8e861cf2c19a983b3bad88dfd261.jpg?auto=format&fit=crop&w=300&q=80',
+  },
+];
